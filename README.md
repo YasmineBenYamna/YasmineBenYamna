@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YasmineBenYamna
 - 👀 I’m interested in Business Intelligence
 - 🌱 I’m currently learning Power bi 
-📫 How to reach me: 
+- 📫 How to reach me: 
 
 
 
